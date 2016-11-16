@@ -1,0 +1,20 @@
+{
+  "name": "agraddy.jefe.stub",
+  "version": "0.0.1",
+  "description": "A jefe plugin for generating files, code, and other actions.",
+  "main": "index.js",
+  "jefe": "stub",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agraddy/agraddy.jefe.stub.git"
+  },
+  "author": "Anthony Graddy",
+  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/agraddy/agraddy.jefe.stub/issues"
+  },
+  "homepage": "https://github.com/agraddy/agraddy.jefe.stub#readme",
+}
